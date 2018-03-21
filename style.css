@@ -1,0 +1,40 @@
+html {
+	cursor: wait !important; 
+}
+
+body {
+	margin: 60px;
+	background-color: #212121;	
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif;
+	color: white;
+}
+
+#ko-kr {
+	font-family: 'Noto Sans', sans-serif;
+	color: white;
+	line-height: 135%;
+}
+
+.footer {
+	font-family: 'Raleway', sans-serif;
+	position: absolute;
+	color: white;
+	
+}
+
+#social {
+	color: #FFFFFF68;
+	line-height: 200%
+}
+
+#social:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.nicomaki_info {
+	color: #FFFFFF;
+}
